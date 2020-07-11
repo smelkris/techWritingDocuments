@@ -8,8 +8,7 @@ Welcome to techWriting's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
+
    intro
 
 
