@@ -10,7 +10,7 @@ Welcome to techWriting's documentation!
    :maxdepth: 2
 
    intro
-
+   contents
 
 Indices and tables
 ==================
