@@ -11,6 +11,7 @@ Welcome to techWriting's documentation!
 
    intro
    contents
+   StormTips.md
 
 Indices and tables
 ==================
