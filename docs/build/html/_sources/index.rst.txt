@@ -11,7 +11,6 @@ Welcome to techWriting's documentation!
 
    intro
    contents
-   StormTips
    Spotify
 
 Indices and tables
