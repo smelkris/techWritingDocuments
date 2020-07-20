@@ -1,6 +1,7 @@
-How to make the best of your Spotify application
-================================================
-<!DOCTYPE html>
+Spotify
+=========
+
+
 <html>
 <body>
 <p style="color:green;">Purpose:</p>
