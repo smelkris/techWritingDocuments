@@ -1,2 +1,18 @@
 How to make the best of your Spotify application
 ================================================
+
+**Purpose:** The purpose of this document is to provide ways for you to setup and utilize 
+                the Spotify application to get the most enjoyable experience out of it.
+
+
++---------+---------+-----------+
+| 1       |  2      |  3        |
++---------+---------+-----------+
+
+.. image:: Pictures/spotify_appstore.png
+    :width: 300
+
+.. role:: red
+
+An example of using :red:`interpreted text`
+
