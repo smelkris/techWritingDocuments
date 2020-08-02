@@ -1,17 +1,103 @@
-How to make the best of your Spotify application
-================================================
+.. role:: green
 
-**Purpose:** The purpose of this document is to provide ways for you to setup and utilize 
-                the Spotify application to get the most enjoyable experience out of it.
+**********************
+:green:`Using Spotify`
+**********************
+
+            :green:`Purpose:` The purpose of this document is to provide ways for you to setup and utilize the Spotify application to get the most enjoyable experience out of it.
+
+            :green:`Target Audience:` This document is for anyone of any age living in the U.S who has a passion for listening to music. They should have the financial means to pay a small monthly fee for their Spotify subscription and a device like a smartphone, PC or MacBook on which to download the application.
+
+            :green:`What you will need:`
+
+            * Smartphone or laptop with an appstore (for downloading Spotify)
+            * A pair of headphones
+            * A steady source of income to pay for Spotify premium
+                #. $4.99/month (for college students)
+                #. or $9.99/month (for non-students)
+            * A credit/debit card or Paypal
 
 
-+---------+---------+-----------+
-| 1       |  2      |  3        |
-+---------+---------+-----------+
 
-.. image:: Pictures/spotify_appstore.png
-    :width: 300
 
-.. role:: red
-An example of using :red:`interpreted text`
+
+            I) Download Spotify onto your device
+                #.  If your device is a laptop, go to the Spotify website and download the application
+                #.  If your device is a smartphone, go to the appstore, search for "Spotify" and download the application called "Spotify: Music and Podcasts."
+
+                   * On an android phone, go to the "Google play store," find Spotify and click "Install"
+                   * On an iPhone, go to the "App Store," find Spotify and click "GET"
+
+
+                `
+            .. image:: Pictures/spotify_appstore.png
+                :width: 400
+                :height: 400
+                :align: center
+                :alt: spotify in appstore
+
+            
+
+            II) Select a payment plan for your monthly Spotify Premium subscription
+                #. Decide which Spotify premium subscription plan you want from the below options
+
+                    * Student plan: $4.99/month
+                    * Individual plan: $9.99/month
+                    * Family plan up to 6 people: $14.99/month
+
+                #. Create a Spotify account that you can sign up with a subscription plan
+
+                    a) Go to the Spotify website and create a Spotify account with your email and Spotify password, or if you have a smartphone, you can choose to sign up through the app you've downloaded
+                    b) Login to your personal email account you signed up with and click on the link from the Spotify email to confirm your address
+                    c) Then, go to the Spotify Premium website, click "Get Started" on one of the subscription plans and login with your user and password.
+                    d) When it asks for your payment method, enter your credit/debit card or PayPal details.
+                
+
+             .. image:: Pictures/spotify_plans.png
+                 :width: 500
+                 :align: center
+                 :alt: spotify subscription plans
+
+
+            III) Start using your Spotify application to customize playlists
+                #. Create playlists
+
+                    a) On your phone, navigate to "Your Library" on the bottom and "Playlists" on the top and click on "Create playlists." On your laptop, just click on "New Playlist" on the left.
+                    b) Enter a name for your playlist in the popup window
+
+                        * Some ideal topics for your playlist name include a particular band, singer, genre (hip hop, reggae), decade (70s, 80s, 90s), activity (workout music, study playlist), or personal mood (happy, fun, relaxing music).
+             
+
+
+                .. image:: Pictures/spotify_create_playlist.png
+                    :width: 300
+                    :align: center
+                    :alt: button for creating playlist            
+                
+
+                #. Add songs to your playlist
+                    a) Search for music by clicking on the "Search" icon at the bottom of the application on your phone or at the top on your laptop
+                    b) In the search field, enter the artists, albums, or song names you're interested in to pull up playlists and songs
+                        * Playlists with the name "This is {artist name searched}" tend to have a long list of the artist's biggest hits
+                        * Playlists with just the artists name tend to have their top 5 popular songs and a "see discography" link below to see all their album's playlists.
+
+
+             .. image:: Pictures/spotify_this_is_artist_playlist.jpg
+                 :width: 300
+                 :height: 500
+                 :align: center
+                 :alt: finding artist playlist with most songs
+                        
+                  c) Once you enter a playlist, you can click on a song to start playing it.
+                  d) If you want, add the song to your playlist by clicking on the three dots next to the song, "..." and clicking on the "Add to playlist" option, then select your newly created playlist in the drop-down list of all your personal playlists.
+
+
+             .. image:: Pictures/spotify_this_is_artist_playlist.jpg
+                 :width: 300
+                 :height: 500
+                 :align: center
+                 :alt: finding artist playlist with most songs
+
+
+        An example of using :green:`interpreted text`
 

@@ -65,9 +65,8 @@ html_style = 'css/custom.css'
 
 
 html_css_files = [
-    'css/custom.css',
-    'css/default.css',
-    'alabaster.css'
+#    'css/custom.css',
+    'css/default.css'
 ]
 
 
