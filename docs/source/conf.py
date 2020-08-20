@@ -72,5 +72,4 @@ html_css_files = [
 
 
 html_theme_options = {
-
 }
