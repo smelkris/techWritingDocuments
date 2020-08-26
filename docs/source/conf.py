@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'techWriting'
+project = 'Tech Writing'
 copyright = '2020, Sahana Melkris'
 author = 'Sahana Melkris'
 
@@ -30,8 +30,13 @@ release = '2020'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+
+import sphinx_rtd_theme
+
 extensions = [
+    'sphinx_rtd_theme'
 ]
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -54,7 +59,7 @@ source_suffix = ['.rst', '.md']
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
-
+#html_theme = "sphinx_rtd_theme"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -72,4 +77,6 @@ html_css_files = [
 
 
 html_theme_options = {
+    #'navigation_depth': 1,
+    #'sticky_navigation': True
 }

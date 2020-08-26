@@ -112,6 +112,8 @@ Create playlists
 
 .. tip:: *Some ideal topics for your playlist name include a particular band, singer, genre (hip hop, reggae), decade (70s, 80s, 90s), activity (workout music, study playlist), or personal mood (happy, fun, relaxing music).*
 
+|
+
 Add songs to your playlist
 --------------------------
 
@@ -129,6 +131,7 @@ Add songs to your playlist
         * *Playlists with the name "This is {artist name searched}" tend to have a long list of the artist's biggest hits.*
         * *Playlists with just the artists name tend to have their top 5 popular songs and a "see discography" link below to see all their album's playlists.*
 
+|
 
 #. Once you enter a playlist, you can click on a song to start playing it.
 #. If you want, add the song to your playlist by clicking on the three dots next to the song, "..." and clicking on the "Add to playlist" option, then select your newly created playlist in the drop-down list of all your personal playlists.
@@ -178,7 +181,7 @@ In your playlist you can move the Download toggle to the right above the song li
                         :align: center
                         :alt: button for creating playlist
 
-                    move download toggle to right
+                        move download toggle to right
 
                         |
 

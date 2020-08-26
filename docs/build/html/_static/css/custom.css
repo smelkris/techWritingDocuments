@@ -1,7 +1,8 @@
 @import "../alabaster.css";
 @import './default.css';
 
-div.sphinxsidebar {
+
+/*div.sphinxsidebar {
     width: 180px;
     font-size: 10px;
     line-height: 1.2;
@@ -29,6 +30,6 @@ p.caption {
      font-size: 10px;
 }
 h2 { font-size: 120%; }
-h3 { font-size: 80%; }
+h3 { font-size: 80%; }*/
 
 
