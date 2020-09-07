@@ -78,5 +78,5 @@ html_css_files = [
 
 html_theme_options = {
     #'navigation_depth': 1,
-    #'sticky_navigation': True
+    'sticky_navigation': True
 }
