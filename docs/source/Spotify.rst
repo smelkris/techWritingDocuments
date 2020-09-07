@@ -6,10 +6,13 @@
 .. |icon| image:: Pictures/spotify_icon.png
     :width: 50
     :height: 50
+.. |check| image:: Pictures/icon/checkmark.png
+    :width: 40
+    :height: 40
 
-**************************
-**Using Spotify**   |icon|
-**************************
+*****************************
+**Using Spotify**      |icon|
+*****************************
 
 Purpose 
 #######
@@ -63,9 +66,11 @@ Pick a Spotify Premium subscription plan
 ----------------------------------------
 |
 
-* **Student plan: $4.99/month**
-* **Individual plan: $9.99/month**
-* **Family plan up to 6 people: $14.99/month**
+* **Student plan: $4.99/month** |check|
+
+* **Individual plan: $9.99/month** |check|
+
+* **Family plan up to 6 people: $14.99/month** |check|
 
 |
 
@@ -121,8 +126,8 @@ Add songs to your playlist
 #. In the search field, enter the artists, albums, or song names you're interested in to pull up playlists and songs.
 
                     .. figure:: Pictures/spotify_this_is_artist_playlist.png
-                        :width: 400
-                        :height: 500
+                        :width: 300
+                        :height: 400
                         :alt: finding artist playlist with most songs
                         
                         this playlist has more songs by the artist
@@ -131,7 +136,6 @@ Add songs to your playlist
         * *Playlists with the name "This is {artist name searched}" tend to have a long list of the artist's biggest hits.*
         * *Playlists with just the artists name tend to have their top 5 popular songs and a "see discography" link below to see all their album's playlists.*
 
-|
 
 #. Once you enter a playlist, you can click on a song to start playing it.
 #. If you want, add the song to your playlist by clicking on the three dots next to the song, "..." and clicking on the "Add to playlist" option, then select your newly created playlist in the drop-down list of all your personal playlists.
@@ -139,7 +143,7 @@ Add songs to your playlist
 
                 .. figure:: Pictures/spotify_add_to_playlist.jpg
                     :width: 300
-                    :height: 300
+                    :height: 400
                     :align: center
                     :alt: finding artist playlist with most songs
                  
@@ -187,9 +191,6 @@ In your playlist you can move the Download toggle to the right above the song li
 
 .. topic:: Final thoughts
 
-    Now you should be ready to start customizing your playlists for the ultimate listening experience! For personalized playlists from Spotify, visit the “Home” tab on the bottom. To explore more genres, radios and podcasts, try visiting the “Search” tab on the bottom. Use your knowledge to build playlists according to your daytime activities like studying, working, exercising or relaxing. Distribute songs from your “Liked Songs” playlist to your desired personal playlists. Then, queue songs in your playlists in the order you like to hear them. Hopefully this tutorial has allowed you grow your passion for listening to music by keeping track of your most loved songs and helping you discover new favorites.
+    Now you should be ready to start customizing your playlists for the ultimate listening experience! For personalized playlists from Spotify, visit the “Home” tab on the bottom. To explore more genres, radios and podcasts, try visiting the “Search” tab on the bottom. Use your knowledge to build playlists according to your daytime activities like studying, working, exercising or relaxing. Distribute songs from your “Liked Songs” playlist to your desired personal playlists. Then, queue songs in your playlists in the order you like to hear them. Hopefully this tutorial has allowed you grow your passion for listening to music by keeping track of your most played songs and helping you discover new favorites.
 
-
-|
-        An example of using :green:`interpreted text`
 
