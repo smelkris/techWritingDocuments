@@ -10,6 +10,7 @@ My Technical Writing Documentation
    :maxdepth: 1
 
    intro
+   contents
    Spotify
    DesignPrinciples
 
